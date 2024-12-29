@@ -55,4 +55,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define RETRO_TAPPING
 
 #define RGBLIGHT_DISABLE
-#define RGBLIGHT_ENABLE false
